@@ -1,0 +1,24 @@
+.heading{
+    width: 100%;
+    margin-top: 0;
+    line-height: 1;
+}
+
+h1{
+    font-size: 20px;
+}
+
+.note{
+    font-size: 15px;
+}
+
+#status{
+    font-size: 18px;
+}
+
+canvas{
+    margin-top: 20px;
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px white;
+    border-radius: 10px;
+}
